@@ -274,7 +274,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #2980b9;
     background: #fff;
 }
 
@@ -466,3 +466,13 @@ footer .footer-below {
 .contact {
   text-align: center;
 }
+
+.email-b {
+  background-color: #2980b9;
+  border-color: #2980b9;
+}
+
+/*.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #1a242f;
+    background-color: transparent;
+}*/
